@@ -31,50 +31,50 @@ After completing this course, students will be able to:
 
 # 4.	References
 # Books (Recommended Textbooks)
-# 1.	Tanenbaum, A. S., & Wetherall, D. J.
+1.	Tanenbaum, A. S., & Wetherall, D. J.
 Computer Networks (5th Edition).
 Pearson Education.
 A classic and authoritative book covering networking fundamentals and administration concepts.
-# 2.	Forouzan, B. A.
+2.	Forouzan, B. A.
 Data Communications and Networking (5th Edition).
 McGraw-Hill Education.
 Excellent for understanding protocols, models, and network operations.
-# 3.	Lammle, T.
+3.	Lammle, T.
 CCNA: Cisco Certified Network Associate Study Guide.
 Sybex.
 Practical reference for routing, switching, and network administration.
-# 4.	Odom, W.
+4.	Odom, W.
 CCNA 200-301 Official Cert Guide.
 Cisco Press.
 Industry-standard reference aligned with real-world network administration tasks.
-# 5.	Stallings, W.
+5.	Stallings, W.
 Data and Computer Communications.
 Pearson Education.
 Strong theoretical foundation with practical relevance.
 
 
 # Online Learning & Documentation
-# 1.	Cisco Networking Academy.
+1.	Cisco Networking Academy.
 Introduction to Networks & Switching, Routing, and Wireless Essentials Official Cisco curriculum widely used in network administration training.
-# 2.	CompTIA Network+ Documentation.
+2.	CompTIA Network+ Documentation.
 Vendor-neutral networking and administration reference.
-# 3.	Microsoft Learn – Networking Fundamentals.
-		Network services, administration, and troubleshooting (Windows environments).
-# 4.	IBM Networking Basics Documentation.
+3.	Microsoft Learn – Networking Fundamentals.
+Network services, administration, and troubleshooting (Windows environments).
+4.	IBM Networking Basics Documentation.
 Enterprise-level networking concepts and administration practices.
 		Standards & Protocol References.
-# 5.	IEEE (Institute of Electrical and Electronics Engineers).
+5.	IEEE (Institute of Electrical and Electronics Engineers).
 IEEE 802 Standards (Ethernet & Wireless)
     	Authoritative standards for network technologies.
-# 6.	IETF (Internet Engineering Task Force).
+6.	IETF (Internet Engineering Task Force).
 RFC Documents
 		Official documentation for TCP/IP, DNS, DHCP, and routing protocols.
 
 
 # Tools & Practical References.
-# 1.	Cisco Packet Tracer – Official User Guide.
+1.	Cisco Packet Tracer – Official User Guide.
 Hands-on network simulation and administration practice.
-# 2.	Wireshark User Guide.
+2.	Wireshark User Guide.
 Network monitoring and troubleshooting reference.
 
 												END.
